@@ -1,6 +1,6 @@
 {
    "end":{
-      "folder":"configuration\\1-tabs\\cards\\End",
+      "folder":"End",
       "confidence":0.8,
       "overriden_confidence":{
 
@@ -15,7 +15,7 @@
       }
    },
    "meta":{
-      "folder":"configuration\\1-tabs\\cards\\Meta",
+      "folder":"Meta",
       "confidence":0.8,
       "overriden_confidence":{
 
@@ -42,7 +42,7 @@
       }
    },
    "loc":{
-      "folder":"configuration\\1-tabs\\cards\\Loc",
+      "folder":"Loc",
       "confidence":0.6,
       "overriden_confidence":{
 
@@ -69,7 +69,7 @@
       }
    },
    "nn":{
-      "folder":"configuration\\1-tabs\\cards\\NN",
+      "folder":"NN",
       "confidence":0.6,
       "overriden_confidence":{
 
@@ -96,7 +96,7 @@
       }
    },
    "own":{
-      "folder":"configuration\\1-tabs\\cards\\Regular",
+      "folder":"Regular",
       "confidence":0.96,
       "overriden_confidence":{
          "0S":0.94,
@@ -112,7 +112,7 @@
       }
    },
    "others":{
-      "folder":"configuration\\1-tabs\\cards\\Middle",
+      "folder":"Middle",
       "confidence":0.97,
       "overriden_confidence":{
          "QC":0.98,
@@ -144,7 +144,7 @@
       }
    },
    "bottom_cards":{
-      "folder":"configuration\\1-tabs\\cards\\Small",
+      "folder":"Small",
       "confidence":0.96,
       "overriden_confidence":{
 
